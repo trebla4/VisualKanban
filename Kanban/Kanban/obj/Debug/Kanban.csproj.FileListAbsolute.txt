@@ -1,0 +1,16 @@
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\bin\Debug\Kanban.exe
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\bin\Debug\Kanban.pdb
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.csprojResolveAssemblyReference.cache
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.Main.resources
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.PanelNuevo.resources
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.csproj.GenerateResource.Cache
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.exe
+C:\Users\Covarrubias\AppData\Local\Temporary Projects\Kanban\obj\Debug\Kanban.pdb
+C:\Users\Covarrubias\Documents\GitHub\Kanban\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\Covarrubias\Documents\GitHub\Kanban\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\Covarrubias\Documents\GitHub\Kanban\Kanban\Kanban\obj\Debug\Kanban.pdb
+C:\Users\Covarrubias\Desktop\Kanban-5b068885766d0a8fe09fae3a27d100812da9e71a\Kanban\Kanban\bin\Debug\Kanban.exe.config
+C:\Users\Covarrubias\Desktop\Kanban-5b068885766d0a8fe09fae3a27d100812da9e71a\Kanban\Kanban\obj\Debug\Kanban.exe
+C:\Users\Covarrubias\Desktop\Kanban-5b068885766d0a8fe09fae3a27d100812da9e71a\Kanban\Kanban\obj\Debug\Kanban.pdb
